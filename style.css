@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 
-.Nav {
+nav {
   color: black;
   overflow: hidden;
   background-color: black;
@@ -12,7 +12,7 @@
   width: 100%;
 }
 
-.Nav a {
+nav a {
   float: left;
   color: white;
   padding: 14px 16px;
@@ -20,7 +20,7 @@
   font-size: 17px;
 }
 
-.Nav a:hover {
+nav a:hover {
   background-color: white;
   color: black;
 }
@@ -29,7 +29,7 @@ body, html {
   height: 150%;
 }
 
-.hero-image {
+figure {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/Hero.jpg");
   height: 50%;
   background-position: center;
