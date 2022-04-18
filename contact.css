@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 
-.Nav {
+nav {
   color: white;
   overflow: hidden;
   background-color: #000000;
@@ -12,7 +12,7 @@
   width: 100%;
 }
 
-.Nav a {
+nav a {
   float: left;
   color: white;
   text-align: center;
@@ -21,7 +21,7 @@
   font-size: 17px;
 }
 
-.Nav a:hover {
+nav a:hover {
   background-color: white;
   color: black;
 }
