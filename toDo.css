@@ -51,7 +51,6 @@ table{
   width: 100%;
   padding-left: 100px;
   text-align: center;
-  background-color: none;
 }
 
 table th, td{
@@ -63,8 +62,7 @@ table th, td{
 footer {
   color: white;
   background-color: black;
-  position: absolute, bottom;
+  bottom: 0;
   width: 100%;
   height: 7em;
-  bottom: 0;
 }
