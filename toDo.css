@@ -51,6 +51,7 @@ table{
   width: 100%;
   padding-left: 100px;
   text-align: center;
+  /* background-color: none; */
 }
 
 table th, td{
